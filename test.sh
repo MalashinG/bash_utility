@@ -8,7 +8,7 @@ show_help(){
     echo ""
     echo "  -p,   --proc          Work with /proc"
     echo "       Available options: version, cpuinfo, meminfo, uptime"
-    echo "       (shows raw /proc/uptime content in seconds)                                                    "
+    echo "       (shows raw /proc/uptime content in seconds)"
     echo ""
     echo "  -c,   --cpu           Show CPU info"
     echo "       Available options: lscpu, usage, mpstat"
